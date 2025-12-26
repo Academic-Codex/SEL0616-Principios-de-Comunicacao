@@ -1,0 +1,12 @@
+REPO_TAGLINE: Communication systems • modulation • information theory
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: peace
+SITE_URL: https://academic-codex.github.io/SEL0616-Principios-De-Comunicacao
+
+BG_1: "#0A1A14"
+BG_2: "#123F2A"
+TEXT_MAIN: "#E6FFF3"
+TEXT_MUTED: "#9BD5B8"
+ACCENT: "#34D399"
+CARD_RADIUS: "16"
